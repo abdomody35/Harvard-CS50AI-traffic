@@ -1,1 +1,1 @@
-# Harvard-CS50AI-traffic
+I worked with a model very similar to the one mentioned in the lecture using a convlution layer that will learn 64 filters based on a 3x3 image then a pooling layer that will use max pooling on 2x2 blocks of the image then a flatten layer then another layer of 256 unit with 50% droupout for better generalization of the model then an output layer of NUM_CATEGORIES units
